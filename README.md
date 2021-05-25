@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Anand Tirpude
 - 🌱 I’m currently learning Data Science
-- 👯‍♂️ I’m looking to collaborate with an organization that let me increase my Experience in data Science
+- 👯‍♂️ I’m looking to collaborate with an organization that let me increase my Experience in Data Science
 - 📫 How to reach me @amantirpudetech@gmail.com
 - 👀 I’m interested in Learning new things, Music, Movies, Technologies, Share Market and much more
 
