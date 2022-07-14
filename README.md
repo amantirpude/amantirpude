@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Anand Tirpude
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m skilled in Java, Data Structures and Algorithms and looking forward to be a Full Stack Developer.
 - 👯‍♂️ I’m looking to collaborate with an organization that let me learn and increase my Experience as a Full Stack Developer. 
 - 📫 How to reach me @amantirpudetech@gmail.com
 - 👀 I’m interested in Learning New things, Music, Movies, Technologies, Share Market and much more.
